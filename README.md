@@ -1,0 +1,2 @@
+# golfsolitaire
+golf and prospector
